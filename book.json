@@ -1,0 +1,11 @@
+{
+    "_comment": "GenshinText book index file",
+    "type": "index",
+    "version": 1,
+    "objects": [
+        {
+            "type": "book",
+            "file": "books/teyvat_travel_guide.json"
+        }
+    ]
+}

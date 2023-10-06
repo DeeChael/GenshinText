@@ -1,0 +1,11 @@
+{
+    "_comment": "GenshinText index file",
+    "type": "index",
+    "version": 1,
+    "objects": [
+        {
+            "type": "book",
+            "file": "book.json"
+        }
+    ]
+}
